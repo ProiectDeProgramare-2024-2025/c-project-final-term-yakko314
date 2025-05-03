@@ -1,0 +1,27 @@
+3
+9A 4 
+Titu_Popescu 4
+Mate 2 9.00 10.00 Romana 2 6.00 7.00 Fizica 2 10.00 8.00 Engleza 1 10.00 
+Alex_Gemenescu 3
+Mate 1 10.00 Romana 2 6.00 7.00 Fizica 3 3.00 3.00 3.00 
+Ana_Gemenescu 3
+Mate 1 10.00 Romana 2 6.00 7.00 Fizica 3 3.00 3.00 3.00 
+Luigi_Conac 3
+Mate 2 10.00 4.00 Romana 2 6.00 7.00 Fizica 3 3.00 3.00 3.00 
+
+10A 3 
+Mario_Alba 3
+Mate 3 9.00 8.00 8.00 Romana 2 6.00 7.00 Fizica 3 3.00 3.00 3.00 
+Mario_Negru 3
+Mate 1 9.00 Romana 2 6.00 7.00 Fizica 3 3.00 3.00 3.00 
+Asdf_Qwert 3
+Mate 1 10.00 Romana 2 6.00 7.00 Fizica 4 10.00 3.00 9.00 9.00 
+
+9B 3 
+Almean_Rosu 3
+Mate 5 8.50 5.00 5.00 9.00 10.00 Romana 2 6.00 7.00 Fizica 3 3.00 3.00 3.00 
+Almean_Albast 3
+Mate 1 8.50 Romana 2 6.00 7.00 Fizica 3 3.00 3.00 3.00 
+Dadac_Alexandr 3
+Mate 7 7.40 9.30 9.30 9.30 9.30 9.30 9.30 Romana 2 10.00 5.00 Fizica 2 10.00 10.00 
+
